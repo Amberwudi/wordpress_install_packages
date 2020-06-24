@@ -1,2 +1,2 @@
 # wordpress_install_packages
-Provides the installation packages downloaded from the Wordpress website.
+Provides the install packages downloaded from the Wordpress website.
